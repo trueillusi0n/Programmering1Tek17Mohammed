@@ -15,10 +15,11 @@ public class Uppgift6 {
 		
 		
 		
-		System.out.println("Arena is 5.6 * 8.5 = " + area);
-		System.out.print("Area is:" + width * height);
+		
+		System.out.println("Area is:" + width + " x " + height + " = " + (width * height));
+		
 	
-		System.out.println("Perimeter is 2*(5.6 + 8.5) = " + perimeter);
+		System.out.println("Perimeter is: " + perimeter + " x " + height + " = " + (width * height));
 		
 	
 	
